@@ -65,6 +65,13 @@ body {
   }
 }
 
+.top-section {
+  width: 100%;
+  display: flex;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #363636;
+}
+
 .section-title {
   font-size: 20px;
   font-weight: 400;
@@ -72,6 +79,18 @@ body {
   letter-spacing: 4px;
   color: #252525;
   padding-bottom: 6px;
+}
+
+.photo img{
+  width: 300px;
+  height: 317px;
+}
+
+.name {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .list {
