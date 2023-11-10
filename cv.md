@@ -17,10 +17,6 @@ to realize my opportunities.
 ## SKILLS
 * Languages
     + JavaScript, HTML/CSS
-    + Typescript
-
-* Libraries / Frameworks
-    + React
 
 * Other
     + OS (Linux, Windows)
@@ -37,7 +33,8 @@ cv.export('./cv.md');
 ```
 ***
 ## WORK EXPERIENCE
-Online store support (PHP, JS)
+- Online store support (PHP, JS)
+- Process automation (JS, Python, undetectable.io)
 ***
 ## EDUCATION
 Minsk State Automechanical college  2016 - 2020
